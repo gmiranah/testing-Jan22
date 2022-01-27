@@ -1,0 +1,16 @@
+* {
+box-sizing: border-box;
+}
+.heading1{ 
+    font-size: 32px;
+    color: blue;
+}
+.heading2{
+    font-size: 25px;
+    color: purple;
+}
+.heading3{
+    font-size: 16px;
+    text-decoration: underline;
+    color: yellowgreen;
+}
