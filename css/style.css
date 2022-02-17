@@ -22,3 +22,10 @@ box-sizing: border-box;
     color: green;
     text-decoration: underline;
 }
+.link{
+    padding 20px 20px;
+    border: 2px solid green;
+    border-radius: 25px 25px;
+    width: 200px;
+    text-decoration: none;
+}
