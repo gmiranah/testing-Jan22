@@ -1,9 +1,15 @@
+@import url('http://fonts.cdnfonts.com/css/shrikhand');
+@import url('http://fonts.cdnfonts.com/css/roboto');
+
+
+
 * {
 box-sizing: border-box;
 }
 .heading1{ 
     font-size: 32px;
     color: blue;
+    font-family: "shrikhand";
 }
 .heading2{
     font-size: 25px;
